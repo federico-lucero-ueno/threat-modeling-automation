@@ -15,7 +15,7 @@ The Threat Modeling Form Integration Tool is designed to streamline the threat m
 - Python 3.x
 - Virtual environment (recommended)
 - Google Cloud credentials for accessing Google Forms and Google Drive
-- [Other Tool](https://example.com/other-tool) for threat modeling analysis
+- [Other Tool](https://github.com/yevh/TaaC-AI) for threat modeling analysis
 
 ## Use case
 
